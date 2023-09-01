@@ -1,0 +1,9 @@
+@startuml
+
+:Admin: -> (Criar capítulo)
+:Admin: -> (Atualizar capítulo)
+:Admin: -> (Excluir capítulo)
+:Admin: -> (Consultar um capítulo)
+:Admin: -> (Consultar capítulos)
+
+@enduml

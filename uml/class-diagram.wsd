@@ -1,0 +1,24 @@
+@startuml
+
+entity Charpter
+
+Charpter : uuid id
+Charpter : uuid user_id
+Charpter : string name
+Charpter : string description
+Charpter : boolean is_active
+Charpter : date created_at
+Charpter : date updated_at
+
+Charpter : create()
+Charpter : update()
+Charpter : activate()
+Charpter : deactivate()
+Charpter : delete()
+
+entity Content
+
+Content : uuid id
+Content : uuid user_id
+
+@enduml

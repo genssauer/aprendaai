@@ -1,0 +1,9 @@
+@startuml
+
+:Admin: -> (Criar conteúdo)
+:Admin: -> (Atualizar conteúdo)
+:Admin: -> (Excluir conteúdo)
+:Admin: -> (Consultar um conteúdo)
+:Admin: -> (Consultar conteúdos)
+
+@enduml
