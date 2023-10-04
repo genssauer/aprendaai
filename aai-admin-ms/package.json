@@ -1,7 +1,7 @@
 {
   "name": "aai-admin-ms",
   "version": "1.0.0",
-  "description": "Serviço para administrar publicações",
+  "description": "Serviço para administrar conteúdos",
   "main": "index.js",
   "scripts": {
     "ts-node": "ts-node",
